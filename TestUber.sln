@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32407.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestUber", "TestUber.csproj", "{94004DA7-C0BB-4833-89BA-B1935B47649A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94004DA7-C0BB-4833-89BA-B1935B47649A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94004DA7-C0BB-4833-89BA-B1935B47649A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94004DA7-C0BB-4833-89BA-B1935B47649A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94004DA7-C0BB-4833-89BA-B1935B47649A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4058C433-97AC-4955-8E52-13156DCB4ACC}
+	EndGlobalSection
+EndGlobal
